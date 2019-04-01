@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>VISTA</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <script src="js.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+<div class="triangle"></div>
+
+  <a href="index.html"> <button id=""  class="but buthome"><i class="fas fa-bars"></i></button></a>
+  
+  <div class="wrapper">
+  <h2 id="girl_name">click next</h2>
+  <button id="girlgo" class="nextbut"><i class="fas fa-chevron-right"></i></button>
+  </div>
+<div class="trianglebottom"></div>
+  </body>
+  <script type="text/javascript">
+  $("#girlgo").click(function () {
+    var full = girls[Math.floor(Math.random()*girls.length)];
+
+    $("#girl_name").html(full);
+  });
+  </script>
+
+</html>
