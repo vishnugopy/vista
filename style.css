@@ -1,13 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Courgette');
-
-
-
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+@import url('https://fonts.googleapis.com/css?family=Signika');
 
 
 
 /* commune css */
 body {
-  background-image: linear-gradient(30deg, #ec38bc,#0082c8);
+  background-image: linear-gradient(to right,#ec38bc,#0082c8);
   background-attachment:fixed;
   background-repeat:repeat;
   margin: 0;
@@ -15,17 +13,16 @@ body {
   text-align: center;
   width:auto;
   height:100%;
-  font-family: 'Courgette', cursive;
   background-size:200%;
-  text-align: center;
+
 }
 
 h2 {
-font-family: 'Courgette', cursive;
+font-family: 'Signika', sans-serif;
 color:white;
 font-size:200%;
 text-align: center;
-margin:15% 0 0 0;
+margin:15% 0 0 7%;
 }
 
 a{
@@ -54,15 +51,14 @@ margin:1%;
 }
 
 .fixed_age{
-background:white;
 color:gray;
-border:3px solid white;
 border-radius:5px;
-padding:1% 2% 0 2%;
 position: fixed;
-bottom:0;
-right:0%;
+bottom:1%;
+right:2%;
 z-index:1;
+font-family: 'Rajdhani', sans-serif;
+
 }
 
 
@@ -148,7 +144,8 @@ font-size:100%;
 border:3px solid white;
 border-radius:5px;
 padding:2% 3% 0 3% ;  
-font-family: 'Courgette', cursive;
+font-family: 'Rajdhani', sans-serif;
+
 
 }
 
@@ -156,8 +153,21 @@ P{
     padding:3%;
     color:aliceblue;
     font-size:100%;
+    font-family: 'Rajdhani', sans-serif;
+
 }
 
 #girl_name{
     margin:0 0 2% 0;
+}
+
+.copy{
+    color:gray;
+    position:fixed;
+    bottom:0;
+    margin:0;
+    bottom:1%;
+    right:20%;
+    z-index:1;
+    font-family: 'Rajdhani', sans-serif;
 }
