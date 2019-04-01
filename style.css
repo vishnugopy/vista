@@ -20,9 +20,10 @@ body {
 h2 {
 font-family: 'Signika', sans-serif;
 color:white;
-font-size:200%;
+font-size:2vh;
 text-align: center;
 margin:15% 0 0 0%;
+padding:2%
 }
 
 h3 {
@@ -126,7 +127,7 @@ left:16%;
 
 
 .nextbut{
-font-size:200%;
+font-size:2vh;
 background:white;
 color:gray;
 border:3px solid white;
@@ -144,7 +145,7 @@ width:80%;
 margin:1%;
 background:white;
 color:gray;
-font-size:100%;
+font-size:2vh;
 border:3px solid white;
 border-radius:5px;
 padding:2% 3% 0 3% ;  
