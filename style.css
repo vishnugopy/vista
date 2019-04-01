@@ -20,21 +20,22 @@ body {
 h2 {
 font-family: 'Signika', sans-serif;
 color:white;
-font-size:2vh;
+font-size:4vh;
 text-align: center;
 margin:15% 0 0 0%;
 padding:2%
 }
 
 h3 {
-font-size:200%;
+font-size:2vh;
 text-align: center;
 }
 
 a{
+  
   text-decoration:none;
   color:white;
-  font-size:200%;
+ 
   margin:0;
 }
 
@@ -59,7 +60,7 @@ margin:1%;
 .fixed_age{
 color:gray;
 position: fixed;
-bottom:-3%;
+bottom:-1%;
 right:1%;
 z-index:1;
 font-family: 'Rajdhani', sans-serif;
@@ -167,6 +168,7 @@ P{
 }
 
 .copy{
+    font-size:2vh;
     color:gray;
     position:fixed;
     bottom:0;
