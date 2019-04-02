@@ -14,7 +14,7 @@ var girls = [
 '<a href="https://www.instagram.com/shasha__gurl/"> @shasha__gurl </a>',
 '<a href="https://www.instagram.com/axngxixe/"> @axngxixe </a>',
 '<a href="https://www.instagram.com/suru_1605/"> @suru_1605 </a>',
-'<a href="https://www.instagram.com/Dilo.slk /"> @Dilo.slk </a>'
+'<a href="https://www.instagram.com/dilo.slk/"> @Dilo.slk </a>'
 
 ];
 
