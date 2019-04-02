@@ -1,6 +1,5 @@
 var boys = [
 '<a href="https://www.instagram.com/ajan_thamizhte/"> @ajan_thamizhte </a>',
-'<a href="https://www.instagram.com/__vishnu__10/"> @__vishnu__10 </a>',
 '<a href="https://www.instagram.com/___my_name_is_billa___/"> @___my_name_is_billa___ </a>'
   
 
