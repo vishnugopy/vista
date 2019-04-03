@@ -134,6 +134,7 @@ position: fixed;
 top:1%;
 left:2%;
 outline: none;
+font-weight: bold;
 }
 
 .report-but{
@@ -147,6 +148,7 @@ top:1%;
 left:20%;
 margin-left:4%;
 outline: none;
+font-weight: bold;
 }
 
 
@@ -191,3 +193,9 @@ P{
     margin:0 0 2% 0;
 }
 
+.logo{
+position: fixed;
+top:2%;
+right:2%;
+z-index:-4;
+}
