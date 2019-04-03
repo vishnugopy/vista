@@ -122,6 +122,7 @@ position: fixed;
 top:0;
 left:2%;
 outline: none;
+font-weight: bold;
 }
 
 .add-but{
