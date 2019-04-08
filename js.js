@@ -2,7 +2,7 @@ var boys = [
 '<a href="https://www.instagram.com/ajan_thamizhte/" target="_blank"> @ajan_thamizhte </a>',
 '<a href="https://www.instagram.com/___my_name_is_billa___/" target="_blank"> @___my_name_is_billa___ </a>',
 '<a href="https://www.instagram.com/kiru2.0/" target="_blank"> @kiru2.0</a>',
-  
+'<a href="http://instagram.com/_u/{ajan_thamizhte}/">Link to Instagram Page</a>,
 
 ];
 
