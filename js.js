@@ -2,6 +2,9 @@ var boys = [
 '<a href="https://www.instagram.com/ajan_thamizhte" target="_blank"> @ajan_thamizhte </a>',
 '<a href="https://www.instagram.com/___my_name_is_billa___/" target="_blank"> @___my_name_is_billa___ </a>',
 '<a href="https://www.instagram.com/kiru2.0/" target="_blank"> @kiru2.0</a>',
+'<a href="https://www.instagram.com/djsandsons/" target="_blank"> @djsandsons</a>',
+'<a href="https://www.instagram.com/maransutha/" target="_blank"> @maransutha</a>',
+'<a href="https://www.instagram.com/jamunaraj02/" target="_blank"> @jamunaraj02</a>',
 
 ];
 
