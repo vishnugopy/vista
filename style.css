@@ -66,19 +66,19 @@ bottom:1%;
 right:5%;
 z-index:1;
 font-family: 'Rajdhani', sans-serif;
-font-size:2vh;
+font-size:3vh;
 outline: none;
 font-weight: bold;
 }
 
 .copy{
-    font-size:2vh;
+    font-size:3vh;
     color:gray;
     position:fixed;
     bottom:0;
     margin:0;
     bottom:1%;
-    right:15%;
+    right:20%;
     z-index:1;
     font-family: 'Rajdhani', sans-serif;
     outline: none;
@@ -113,6 +113,7 @@ color:gray;
 }
 
 .buthome{
+font-size:4vh;
 background:white;
 color:gray;
 border:3px solid white;
@@ -126,6 +127,7 @@ font-weight: bold;
 }
 
 .add-but{
+font-size:2.5vh;
 background:white;
 color:gray;
 border:3px solid white;
@@ -139,6 +141,7 @@ font-weight: bold;
 }
 
 .report-but{
+font-size:2.5vh;
 background:white;
 color:gray;
 border:3px solid white;
@@ -146,7 +149,7 @@ border-radius:5px;
 padding:1% 2% 0 2%;
 position: fixed;
 top:1%;
-left:20%;
+left:25%;
 margin-left:4%;
 outline: none;
 font-weight: bold;
@@ -154,7 +157,7 @@ font-weight: bold;
 
 
 .nextbut{
-font-size:2vh;
+font-size:4vh;
 background:white;
 color:gray;
 border:3px solid white;
