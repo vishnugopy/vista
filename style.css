@@ -203,3 +203,12 @@ top:2%;
 right:2%;
 z-index:-4;
 }
+
+
+.count{
+position: fixed;
+font-size:3vh;
+bottom:5%;
+right:5%;
+    
+}
