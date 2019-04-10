@@ -206,8 +206,11 @@ z-index:-4;
 
 
 .count{
+padding:1% 0 0 0;
+background:black;
+border-radius:6px;
 position: fixed;
-font-size:3vh;
+font-size:1vh;
 bottom:5%;
 right:5%;
     
