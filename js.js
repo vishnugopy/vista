@@ -30,11 +30,3 @@ var girls = [
 ];
 
 
-//'<a href="https://www.instagram.com/ /"> @ </a>',
-window.addEventListener("load",function() {
-	// Set a timeout...
-	setTimeout(function(){
-		// Hide the address bar!
-		window.scrollTo(0, 1);
-	}, 0);
-});
