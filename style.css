@@ -15,7 +15,13 @@ body {
   height:100%;
   background-size:200%;
   outline: none;
+  position: fixed;
 }
+
+.full{
+   padding:5%;
+    margin:auto;
+ }
 
 h2 {
 font-family: 'Signika', sans-serif;
@@ -218,4 +224,15 @@ bottom:5%;
 right:5%;
 opacity:0.09;
     
+}
+
+/*
+@media screen and (min-width:300px) {
+  .full{
+   margin-left:-7%;
+   padding:5%;
+  }
+    
+*/
+
 }
