@@ -8,6 +8,7 @@ var boys = [
 '<a href="https://www.instagram.com/latie93/" target="_blank"> @latie93</a>',
 '<a href="https://www.instagram.com/itzvinoth_19/" target="_blank"> @itzvinoth_19</a>',
 '<a href="https://www.instagram.com/mathu_shan_11/" target="_blank"> @mathu_shan_11</a>',
+'<a href="https://www.instagram.com/sathakarishan75/" target="_blank"> @sathakarishan75</a>',
 
 ];
 
@@ -26,6 +27,7 @@ var girls = [
 '<a href="https://www.instagram.com/sweetyannie1999/" target="_blank"> @Sweetyannie1999 </a>',
 '<a href="https://www.instagram.com/jessislk/" target="_blank"> @jessislk</a>',
 '<a href="https://www.instagram.com/saithi.ka_slk/" target="_blank"> @saithi.ka_slk</a>',
+'<a href="https://www.instagram.com/ragavy.slk/" target="_blank"> @ragavy.slk</a>',
 
 ];
 
