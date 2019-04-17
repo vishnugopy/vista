@@ -15,7 +15,7 @@ body {
   height:100%;
   background-size:200%;
   outline: none;
-  position: fixed;
+/*  position: fixed;*/
 }
 
 
@@ -207,19 +207,4 @@ right:2%;
 z-index:-4;
 }
 
-
-.count{
-width:auto;
-height:auto;
-border:black solid 2px;
-padding:1.1% 0 0 0;
-background:black;
-border-radius:6px;
-position: fixed;
-font-size:1vh;
-bottom:5%;
-right:5%;
-opacity:0.09;
-    
-}
 
